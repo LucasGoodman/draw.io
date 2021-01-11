@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T09:15:51.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="d9_iwFCalNDhmhH_okTH" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-11T09:28:37.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="L3-QYQICSLoe_7R75Cdy" version="14.1.9" type="github">
   <diagram id="XkRqrzH355DGaIdfhFV-" name="Page-1">
-    <mxGraphModel dx="1038" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="685" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,45 @@
         </mxCell>
         <mxCell id="GtOhaPn5CGfBP3WCH8AB-9" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="324" y="442" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="GtOhaPn5CGfBP3WCH8AB-12" target="GtOhaPn5CGfBP3WCH8AB-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-12" value="2号钢棒&lt;br style=&quot;font-size: 14px&quot;&gt;向右&lt;b&gt;匀速运动&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="463" y="234" width="160" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="GtOhaPn5CGfBP3WCH8AB-14" target="GtOhaPn5CGfBP3WCH8AB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-14" value="2号钢棒&lt;br style=&quot;font-size: 14px&quot;&gt;与1号钢棒发生&lt;b&gt;追钢&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="463" y="432" width="160" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="GtOhaPn5CGfBP3WCH8AB-16" target="GtOhaPn5CGfBP3WCH8AB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-16" value="2号钢棒停止运动&lt;br&gt;系统停止运转" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="463" y="529" width="160" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="GtOhaPn5CGfBP3WCH8AB-18" target="GtOhaPn5CGfBP3WCH8AB-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-18" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="513" y="47" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-19" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="516" y="631" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="GtOhaPn5CGfBP3WCH8AB-20" target="GtOhaPn5CGfBP3WCH8AB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-20" value="&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 13.3333px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;算法识别画面&lt;br&gt;氛围灯改变&lt;br&gt;声光报警器启动&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="463" y="137" width="160" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="GtOhaPn5CGfBP3WCH8AB-24" target="GtOhaPn5CGfBP3WCH8AB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GtOhaPn5CGfBP3WCH8AB-24" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 13.3333px ; background-color: rgb(255 , 255 , 255)&quot;&gt;声光报警器报警&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="463" y="337" width="160" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
